@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi 👋 I'm Batuhan
 
-<!--
-**batuhanalan/batuhanalan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Actuarial Science Graduate  
+📊 Interested in Data Science, Analytics & Risk Modeling  
 
-Here are some ideas to get you started:
+### 🔧 Skills
+- Python
+- Pandas, NumPy
+- SQL
+- Machine Learning (basic)
+- Data Analysis & Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📁 Projects
+- E-commerce Recommendation System
+- Data Analysis & EDA Projects
+- Insurance & Actuarial Case Studies
+
+📫 GitHub: github.com/batuhanalan
